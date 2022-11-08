@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">2018054_ReycycleView</string>
+
+    <string name="price">Price</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="Deskripsi">Deskripsi</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string-array name="Laptop">
+        <item>rog</item>
+        <item>acer</item>
+        <item>zenbook</item>
+        <item>dell</item>
+    </string-array>
+    <string-array name="bintang">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="penjelasan">
+        <item>Rp. 150.000/Hari</item>
+        <item>Rp. 75.000/Hari</item>
+        <item>Rp. 100.000/Hari</item>
+        <item>Rp. 80.000/Hari</item>
+    </string-array>
+</resources>
